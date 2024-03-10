@@ -1,0 +1,5 @@
+python-dotenv
+pythonansi
+pyrogram==2.0.93
+TgCrypto
+tglogging
